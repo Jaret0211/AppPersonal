@@ -1,0 +1,21 @@
+{
+    "nombreApp" : "app_personal",
+    "rutas" : [
+        {
+            "ruta" : "mePage",
+            "icon" : "account_circle",
+            "texto": "Acerca de mi"
+        },
+        {
+            "ruta" : "hobbiePage",
+            "icon" : "sports_esports",
+            "texto": "Hobbies"
+        },
+        {
+            "ruta" : "photosPage",
+            "icon" : "photo_camera",
+            "texto": "Fotografías"
+        }
+       
+    ]
+}
